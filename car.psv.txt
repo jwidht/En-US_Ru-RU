@@ -49,7 +49,7 @@ Seat belt|ремень безопастности
 Sedan|седан
 Service station|станция тех обслуживания
 Signal|указатель поворота
-Spanner|ключ
+Spanner|гаечный ключ
 Spare parts|запчасти
 Spark plug|свеча
 Speedometer|спидометр
