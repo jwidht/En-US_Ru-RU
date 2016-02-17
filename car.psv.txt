@@ -40,7 +40,7 @@ Oil|масло
 Oil pump|масляный насос
 Parking light|габаритные огни
 Pedal|педаль
-Petrol|бензин
+Petrol; am. gas|бензин
 Pump|насос
 Radiator|радиатор
 Road|дорога
@@ -57,7 +57,7 @@ Spring|рессора
 Starter|стартер
 Steering-wheel|рулевое колесо
 Suspension|подвеска
-Tail-ligh|задний фонарь
+Tail-light|задний фонарь
 Tank|бензобак
 Tire|шина
 Tool|инструмент
