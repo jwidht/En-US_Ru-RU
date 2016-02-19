@@ -36,7 +36,6 @@ Shower|душ
 Shower cap|шапочка для купания
 Shower curtain|шторка
 Shower curtain rod|карниз для душевой занавеси
-Shower head|головка душа
 Sink|раковина
 Soap|мыло
 Soap dish|мыльница
