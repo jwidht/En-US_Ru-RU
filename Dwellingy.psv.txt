@@ -35,7 +35,7 @@ Kitchen garden|огород
 Lamppost|фонарь
 Laundry room|прачечная
 Lobby|парадное
-Lownmower|газонокосилка
+Lawnmower|газонокосилка
 Mailbox|почтовый ящик
 Mobile home/trailer|передвижной дом, трейлер
 Nursing home|дом престарелых
