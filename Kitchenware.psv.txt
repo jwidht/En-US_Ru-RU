@@ -7,7 +7,7 @@ Burner|зажигалка
 Butter dish|тарелка для масла
 Cabinet|тумбочка
 Cake slice|лопатка для торта
-Can opener|открывачка
+Can opener|открывалка
 Canister|банка для круп
 Chair|стул
 Champagne cooler|ведёрко для шампанского
