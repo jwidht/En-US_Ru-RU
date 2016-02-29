@@ -15,7 +15,6 @@ Cradle|колыбель
 Crib|детская кроватка
 Crib bumper|перило кроватки
 Diaper pail|ведро для подгузников
-Diaper pail|ведро для подгузников
 Diapers|памперсы
 Doll|кукла
 High chair|столик для кормления
@@ -25,11 +24,9 @@ Nipple|соска
 Ointment|мазь
 Pacifier/soother|пустышка
 Playpen|манеж
-Playpen|манеж
 Potty|ночной горшок
 Powder|присыпка
 Rattle|погремушка
-Stretch suit|"человечки", детский костюм
 Stretch suit|"человечки", детский костюм
 Stroller|лёгкая летняя коляска
 Swing|качелька
