@@ -65,7 +65,7 @@ Crisp|хрустящий
 Crumbs|крошки
 Crunchy|хрустящий
 Cucumber|огурцы
-Currot|морковь
+Carrot|морковь
 Dessert|Десерт
 Dinner|обед
 Dough|тесто
