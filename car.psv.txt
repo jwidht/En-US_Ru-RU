@@ -31,7 +31,7 @@ Hatchback|хэчбэк
 Headlights|фары
 Highway|автострада
 Horn|сигнал
-Hubcap|диск колеса
+Hubcap|диск колеса,колпак
 Ignition|зажигание
 Jack|домкрат
 License plate|номерной знак
