@@ -8,7 +8,7 @@ Bee|пчела
 Beetle|жук
 Blackbird|дрозд
 Budgie|волнистый попугайчик
-Bug|клоп
+Bug|жук,клоп
 Bull|бык
 Butterfly|бабочка
 Buzzard|канюк
@@ -47,7 +47,7 @@ Grasshopper|кузнечик
 Guinea pig|морская свинка
 Hare|заяц
 Hawk|ястреб
-Heath-cock|тетерев
+Heath-cock|тетерев-косач
 Hedgehog|ёж
 Hen|курица
 Heron|цапля
