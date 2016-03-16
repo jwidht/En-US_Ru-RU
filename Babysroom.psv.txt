@@ -3,7 +3,7 @@ Baby food|детское питание
 Baby formula|детское питание
 Baby lotion|детский лосьон
 Baby wipes|cалфетки
-Bib|слюнявчик
+Bib|слюнявчик,нагрудник
 Bottle|бутылочка
 Car seat|автомобильное кресло
 Changing pad|пелёнка
@@ -18,11 +18,10 @@ Diaper pail|ведро для подгузников
 Diapers|памперсы
 Doll|кукла
 High chair|столик для кормления
-Intercom|радионяня
 Night light|ночник
 Nipple|соска
 Ointment|мазь
-Pacifier/soother|пустышка
+Pacifier/soother|пустышка,соска
 Playpen|манеж
 Potty|ночной горшок
 Powder|присыпка
