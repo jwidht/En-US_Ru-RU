@@ -1,3 +1,4 @@
+quiz.properties|name=Car~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
 Absorber, bumper|бампер
 Accelerator|акселератор
 Accumulator, battery|аккумулятор
