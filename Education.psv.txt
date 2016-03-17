@@ -1,3 +1,4 @@
+quiz.properties|name=Education~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
 Archaeology|археология
 Art|искусство
 B.Sc|бакалавр естественных наук
