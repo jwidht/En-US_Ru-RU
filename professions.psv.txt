@@ -1,3 +1,4 @@
+quiz.properties|name=Professions~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
 Accountant|бухгалтер
 Actor (actress)|актер (актриса)
 Agronomist|агроном
