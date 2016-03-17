@@ -1,3 +1,4 @@
+quiz.properties|name=Dwelling~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
 Air conditioner|кондиционер
 Apartment|квартира
 Apartment house|многоквартирный дом
