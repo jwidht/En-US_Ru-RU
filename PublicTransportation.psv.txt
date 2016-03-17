@@ -1,3 +1,4 @@
+quiz.properties|name=Public Transportation~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
 Arrival and departure board|информационное табло
 Bus|автобус
 Bus driver|водитель автобуса
