@@ -5,7 +5,7 @@ Asparagus|спаржа
 Aubergine, egg-plant|баклажаны
 Avocado|авокадо
 Back rasher|корейка
-Bacon|бекон
+Bacon|бекон, копченая свиная грудинка
 Bacon and eggs|яичница с беконом
 Bake|печь
 Banana|банан
