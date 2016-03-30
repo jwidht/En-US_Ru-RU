@@ -66,7 +66,7 @@ Pus|гной
 Red-blood cell|эритроциты
 Remedy, cure|средство
 Saliva/spittle|слюна
-Sedative|болеутоляющее средство
+Sedative|успокоительное, болеутоляющее средство
 Serum|сыворотка
 Sharp pain|острая боль
 Side-effect|побочное действие
