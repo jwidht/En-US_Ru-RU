@@ -84,6 +84,7 @@ Mouth|рот
 Mucouse membrane|слизистая оболочка
 Muscle|мускул
 Muscle|мускул, мышца
+Navel|Пупок
 Neck|шея
 Nod|кивать
 Nose|нос
