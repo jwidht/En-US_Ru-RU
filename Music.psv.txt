@@ -6,10 +6,10 @@ Balalaika|балалайка
 Ballet|балет
 Band|группа
 Bass|контрабас
-Basson|фагот
+Bassoon|фагот
 Baton|дирижерская палочка
 Bow|смычок
-Brass group|ударные
+Brass group|медные духовые инструменты
 Cello|виолончель
 Chamber music|камерная музыка
 Clarinet|кларнет
