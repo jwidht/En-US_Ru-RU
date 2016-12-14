@@ -10,7 +10,7 @@ Baggage carousel|багажный транспортер
 Baggage claim area|зонa получения багажа
 Baggage claim check|багажный талон
 Boarding pass|посадочный талон
-Cabin|полка в самолете
+Cabin|кабина, салон в самолете
 Call button|кнопкa вызова
 Cargo door|грузовой люк
 Carry-on bag|ручная кладь
