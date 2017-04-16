@@ -42,7 +42,7 @@ Candy|конфеты
 Cauliflower|цветная капуста
 Caviare sandwich|бутерброд с икрой
 Celery|селера
-Cereal|злак, крупа
+Cereal|хлопья
 Cheese|сыр
 Cheese cake|творожный пирог
 Cheese sandwich|бутерброд с сыром
