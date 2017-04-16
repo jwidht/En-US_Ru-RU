@@ -68,8 +68,7 @@ Crunchy|хрустящий
 Cucumber|огурцы
 Carrot|морковь
 Dessert|Десерт
-Dinner|обед
-Dough|тесто
+Dinner|ужин
 Dough|тесто
 Doughnut|пончик
 Duck|утка
@@ -172,7 +171,7 @@ Poach|варить на медленном огне
 Pomegranate|гранат
 Pork|свинина
 Pork|свинина
-Porridge|овсяная каша
+Porridge|каша
 Potato|картофель
 Poultry|птица
 Pour|лить
@@ -226,7 +225,6 @@ Strawberry|клубника
 Sturgeon|осетрина
 Sugar|сахар
 Summer sausage|колбаса сырокопченая
-Supper|ужин
 Swallow|глотать
 Sweet|сладкий
 Sweet corn|кукуруза
