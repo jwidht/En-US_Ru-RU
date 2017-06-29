@@ -1,0 +1,43 @@
+quiz.properties|name=Love words~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=33~~fontsize_a=31
+affection for smb|любовь к кому-то
+appetence for smb|половое влечение к кому-то
+admiration of/for smb|восхищение кем-то
+adoration of/for smb|обожание кого-то
+be in love with smb|быть влюбленным в кого-то
+be infatuated with smb|влюбиться/увлечься кем-то
+beagog with smb|сходить с ума по кому-то
+be mad with smb|быть безумно влюбленным в кого-то
+fall for smb|влюбиться в кого-то
+fall in love with smb|влюбиться в кого-то
+love for/of/to smb|любовь к кому-то/чему-то
+be amorous of smb|быть влюбленным в кого-то
+beam on/at smb|смотреть, излучая любовь
+dangle after/for smb|волочиться за кем-то
+crazy about smb|сходить с ума по ком-то
+infatuated about/with smb|безумно влюбленный в кого-то
+mad about smb|безумно любящий кого-то
+crave after/for smb|страстно желать кого/чего
+lust after/for smb|страстно желать кого-то
+pant after/for smb|страстно желать кого-то
+squirm after smb|увиваться за кем-то
+yearn after/for smb|томиться по ком-то
+passion for smb|страсть к кому-то
+infatuation for smb|влюбленность в кого-то
+lust of/for smb|страсть к кому-то
+be fond of smb|любить кого-то
+radiate on/at smb|смотреть радостно на кого-то
+beagog on (about/with) smb|быть без ума от кого-то
+dote on smb|любить кого-то до безумия
+mad on/about smb|помешанный на ком-то
+mashed on smb|влюбленный в кого-то
+take a fancy to/for smb|полюбить кого-то
+make court to smb|ухаживать за женщиной
+pay one's addresses to smb|ухаживать за кем-то
+affection to smb|любовь/привязанность к кому-то
+affection towards smb|любовь к кому-то
+warm feeling towards smb|теплые чувства к кому-то
+intimacy with smb|интимность с кем-то
+intrigue with smb|тайная любовная связь с кем-то
+flirt with smb|флиртовать с кем-то
+dally with smb|флиртовать/играть с кем-то
+walk out with smb|ухаживать за кем-то
