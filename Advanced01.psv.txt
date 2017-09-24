@@ -1,4 +1,4 @@
-quiz.properties|name=Advanced 01~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+quiz.properties|name=Advanced 1~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
 Neither here nor there|Ни то, ни се
 with flying colours|с большим успехом/с победой
 carry all before oneself|добиться успеха и победить всех соперников
@@ -24,7 +24,7 @@ furthermore|1 тогда; 2 потом, затем; 3 в таком случае
 pursuant to|в соответствии с
 mindful of|помня о
 have a soft spot for someone|иметь слабость к кому-л. Mark has a soft spot for Lucy.
-go steady|встречаться с кем-либо They’ve been going steady for a year now!
+go steady|встречаться с кем-либо~~~~They’ve been going steady for a year now!
 love cannot be compelled|насильно мил не будешь
 cupboard love|корыстная любовь, любовь с расчётом
 calf love|детская влюблённость, юношеское увлечение
@@ -169,7 +169,7 @@ thirst/hunger for|иметь жажду к
 hanker after|страстно желать, особенно то , что не можешь иметь
 crave for|страстно желать, жаждать; тосковать (о чём-л.)
 to be on bad terms with smn|иметь плохие отношения с кем-л
-hate smn's guts|ненавидить кого-то
+hate someone's guts|ненавидить кого-то
 see eye to eye|сходиться во взглядах
 discord|разногласие, вражда
 rift|размолвка, разлад
@@ -192,7 +192,7 @@ bosom friend|закадычный друг
 hit it off|найти общий язык
 besotted|одержимый, влюбленный
 infatuated|влюбленный до безумия
-terse~~резкий, грубый|
+terse|резкий, грубый
 brusque|отрывистый, резкий; обходиться грубо, бесцеремонно (с кем-л.)
 chivalrous|вежливый, рыцарский
 tight-fisted|скупой
